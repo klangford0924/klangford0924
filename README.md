@@ -1,37 +1,25 @@
 ## Hi there 👋
-Will this show up?
+# Welcome to My GitHub Profile!
 
-<!--
-**klangford0924/klangford0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Data Science Portfolio - Kate Langford
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+## 👩‍💻 About Me
+Hi, I'm Kate Langford, a sophomore English and American Studies Major with minors in data science and public service from the University of Notre Dame.   I enjoy solving public policy problems using data-driven approaches and creating impactful visualizations to tell meaningful stories. Currently, I'm enhancing my skills in **data analysis, machine learning, and visualization tools**.
 
-- **Email**: [klangfor@nd.edu](klangfor@nd.edu)
-- **LinkedIn**: [https://www.linkedin.com/in/katherinelangford/] (https://www.linkedin.com/in/katherinelangford/)
+Feel free to explore my work, and don't hesitate to connect!
 
-## Achievements
+## 🛠️ Technical Skills
+- **Programming Languages:** Python, R, SQL  
+- **Visualization Tools:** Tableau
+- **Other Tools:** Jupyter Notebook, Excel, Google Sheets
 
-## Projects
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+## 🔗 Notable Projects
+- (): A collection of data science projects from my intro to Data Science class
 
 
-## Micro Projects
-### Statistics and Machine Learning
-
- 
-### Challenges
-
- ### Ranking Algorithms
-
- 
-## Core Competencies
+## 📫 Contact Me
+- [LinkedIn]((https://www.linkedin.com/in/katherinelangford/))  
+- Email: klangfor@nd.edu
 
 
-
-## Certificates
 
 
 
