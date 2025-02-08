@@ -21,6 +21,6 @@ Hi, I'm Kate Langford, a sophomore English and American Studies Major with minor
 - Email: klangfor@nd.edu
 
 
-
+![Last Commit](https://img.shields.io/github/last-commit/KLANGFORD0924/KLANGFORD0924)
 
 
