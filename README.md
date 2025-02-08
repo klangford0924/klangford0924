@@ -1,6 +1,7 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile!
 
+
 ## 👩‍💻 Introduction
 Hi, I'm Kate Langford, a sophomore English and American Studies Major with minors in data science and public service from the University of Notre Dame.   I enjoy solving public policy problems using data-driven approaches and creating impactful visualizations to tell meaningful stories. Currently, I'm enhancing my skills in **data analysis, machine learning, and visualization tools**.
 
