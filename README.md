@@ -1,5 +1,4 @@
 # Hi, I'm Kate 👋
-## Welcome to My GitHub Profile!
 ## I am a Data Science Student at the Univeristy of Notre Dame
 
 📍 South Bend
