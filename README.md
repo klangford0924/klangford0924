@@ -1,9 +1,9 @@
 # Hi, I'm Kate 👋
 ## I am a Data Science Student at the Univeristy of Notre Dame
 
-📍 South Bend
-📧 Email: klangfor@nd.edu
-🔗 LinkedIn [katherinelangford]((https://www.linkedin.com/in/katherinelangford/))  
+📍 South Bend <br>  
+📧 Email: klangfor@nd.edu <br>
+🔗 LinkedIn [katherinelangford]((https://www.linkedin.com/in/katherinelangford/))  <br>  
 👨‍💻 GitHub: [klangford0924]((https://github.com/klangford0924/klangford0924)))  
 
 ## 👩‍💻 About Me
