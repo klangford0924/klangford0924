@@ -31,9 +31,13 @@ I enjoy solving public policy problems using data-driven approaches and creating
 
 
 ## 🛠️ Skills
+- **Machine Learning Techniques** Supervised & Unsupervised Learning, Clustering (K-Means, Hierarchical), Principal Component Analysis (PCA), Regression (Multilinear, Logistic)
 - **Programming Languages:** Python, R, SQL  
 - **Visualization Tools:** Tableau
 - **Other Tools:** Jupyter Notebook, Excel, Google Sheets, Streamlit
+
+## 🎓 Education 
+- English and American Studies major with minors in Data Science and Public Service at the University of Notre Dame
 
 ## 🏀 Goals
 - I want to master data storytelling by creating engaging visuals that blend my humanities insights with my coding skills.
