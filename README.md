@@ -16,6 +16,7 @@ I enjoy solving public policy problems using data-driven approaches and creating
      - Built predictive models using supervised techniques (e.g., regression, classification).
      - Explored unsupervised learning algorithms (e.g., clustering, PCA) to uncover hidden patterns in data.
      - Developed end-to-end machine learning pipelines, including data preprocessing, model training, and evaluation.
+   - **Repository**: [Streamlit Machine Learning Project]((https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/tree/main/MLStreamlitApp))
        
 ### **Rural vs. Urban Crime Analysis: A Wisconsin Case Study**
    - **Project Overview**: Conducted a detailed analysis of crime patterns across rural and urban areas in Wisconsin using data from the Uniform Crime Reporting (UCR) and the National Incident-Based Reporting System (NIBRS).
